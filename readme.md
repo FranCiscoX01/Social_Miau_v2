@@ -69,3 +69,25 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Screenshots
+
+https://raw.githubusercontent.com/FranCiscoX01/Social_Miau_v2/master/assets/Captura%20de%20Pantalla%202020-10-10%20a%20la(s)%2010.48.58.png
+
+https://raw.githubusercontent.com/FranCiscoX01/Social_Miau_v2/master/assets/Captura%20de%20Pantalla%202020-10-10%20a%20la(s)%2010.49.28.png
+
+https://raw.githubusercontent.com/FranCiscoX01/Social_Miau_v2/master/assets/Captura%20de%20Pantalla%202020-10-10%20a%20la(s)%2010.50.05.png
+
+https://raw.githubusercontent.com/FranCiscoX01/Social_Miau_v2/master/assets/Captura%20de%20Pantalla%202020-10-10%20a%20la(s)%2010.50.29.png
+
+https://raw.githubusercontent.com/FranCiscoX01/Social_Miau_v2/master/assets/Captura%20de%20Pantalla%202020-10-10%20a%20la(s)%2010.50.45.png
+
+https://raw.githubusercontent.com/FranCiscoX01/Social_Miau_v2/master/assets/Captura%20de%20Pantalla%202020-10-10%20a%20la(s)%2010.51.02.png
+
+https://raw.githubusercontent.com/FranCiscoX01/Social_Miau_v2/master/assets/Captura%20de%20Pantalla%202020-10-10%20a%20la(s)%2010.58.12.png
+
+https://raw.githubusercontent.com/FranCiscoX01/Social_Miau_v2/master/assets/Captura%20de%20Pantalla%202020-10-10%20a%20la(s)%2010.58.31.png
+
+https://raw.githubusercontent.com/FranCiscoX01/Social_Miau_v2/master/assets/Captura%20de%20Pantalla%202020-10-10%20a%20la(s)%2010.58.44.png
+
+https://raw.githubusercontent.com/FranCiscoX01/Social_Miau_v2/master/assets/Captura%20de%20Pantalla%202020-10-10%20a%20la(s)%2010.58.56.png
