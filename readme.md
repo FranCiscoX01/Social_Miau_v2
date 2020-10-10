@@ -72,23 +72,22 @@ The Laravel framework is open-source software licensed under the [MIT license](h
 
 ## Screenshots
 
-![Login]
-(https://raw.githubusercontent.com/FranCiscoX01/Social_Miau_v2/master/assets/Captura%20de%20Pantalla%202020-10-10%20a%20la(s)%2010.48.58.png)
+![Login](https://raw.githubusercontent.com/FranCiscoX01/Social_Miau_v2/master/assets/Captura%20de%20Pantalla%202020-10-10%20a%20la(s)%2010.48.58.png)
 
-(https://raw.githubusercontent.com/FranCiscoX01/Social_Miau_v2/master/assets/Captura%20de%20Pantalla%202020-10-10%20a%20la(s)%2010.49.28.png)
+![Dashboard](https://raw.githubusercontent.com/FranCiscoX01/Social_Miau_v2/master/assets/Captura%20de%20Pantalla%202020-10-10%20a%20la(s)%2010.49.28.png)
 
-(https://raw.githubusercontent.com/FranCiscoX01/Social_Miau_v2/master/assets/Captura%20de%20Pantalla%202020-10-10%20a%20la(s)%2010.50.05.png)
+![Most liked and loved post](https://raw.githubusercontent.com/FranCiscoX01/Social_Miau_v2/master/assets/Captura%20de%20Pantalla%202020-10-10%20a%20la(s)%2010.50.05.png)
 
-(https://raw.githubusercontent.com/FranCiscoX01/Social_Miau_v2/master/assets/Captura%20de%20Pantalla%202020-10-10%20a%20la(s)%2010.50.29.png)
+![All posts](https://raw.githubusercontent.com/FranCiscoX01/Social_Miau_v2/master/assets/Captura%20de%20Pantalla%202020-10-10%20a%20la(s)%2010.50.29.png)
 
-(https://raw.githubusercontent.com/FranCiscoX01/Social_Miau_v2/master/assets/Captura%20de%20Pantalla%202020-10-10%20a%20la(s)%2010.50.45.png)
+![Rate post](https://raw.githubusercontent.com/FranCiscoX01/Social_Miau_v2/master/assets/Captura%20de%20Pantalla%202020-10-10%20a%20la(s)%2010.50.45.png)
 
-(https://raw.githubusercontent.com/FranCiscoX01/Social_Miau_v2/master/assets/Captura%20de%20Pantalla%202020-10-10%20a%20la(s)%2010.51.02.png)
+![New post](https://raw.githubusercontent.com/FranCiscoX01/Social_Miau_v2/master/assets/Captura%20de%20Pantalla%202020-10-10%20a%20la(s)%2010.51.02.png)
 
-(https://raw.githubusercontent.com/FranCiscoX01/Social_Miau_v2/master/assets/Captura%20de%20Pantalla%202020-10-10%20a%20la(s)%2010.58.12.png)
+![Profile Home](https://raw.githubusercontent.com/FranCiscoX01/Social_Miau_v2/master/assets/Captura%20de%20Pantalla%202020-10-10%20a%20la(s)%2010.58.12.png)
 
-(https://raw.githubusercontent.com/FranCiscoX01/Social_Miau_v2/master/assets/Captura%20de%20Pantalla%202020-10-10%20a%20la(s)%2010.58.31.png)
+![Likes on post Profile](https://raw.githubusercontent.com/FranCiscoX01/Social_Miau_v2/master/assets/Captura%20de%20Pantalla%202020-10-10%20a%20la(s)%2010.58.31.png)
 
-(https://raw.githubusercontent.com/FranCiscoX01/Social_Miau_v2/master/assets/Captura%20de%20Pantalla%202020-10-10%20a%20la(s)%2010.58.44.png)
+![Profile settings](https://raw.githubusercontent.com/FranCiscoX01/Social_Miau_v2/master/assets/Captura%20de%20Pantalla%202020-10-10%20a%20la(s)%2010.58.44.png)
 
-(https://raw.githubusercontent.com/FranCiscoX01/Social_Miau_v2/master/assets/Captura%20de%20Pantalla%202020-10-10%20a%20la(s)%2010.58.56.png)
+![Secutiry](https://raw.githubusercontent.com/FranCiscoX01/Social_Miau_v2/master/assets/Captura%20de%20Pantalla%202020-10-10%20a%20la(s)%2010.58.56.png)
